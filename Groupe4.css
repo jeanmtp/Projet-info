@@ -1,0 +1,24 @@
+body {
+	font-family: calibri;
+	font-size: 12;
+	font-style: normal;
+	color: black;
+}
+h1{
+	font-family: arial, helvetica, sans-serif;
+	font-size: 16;
+	font-style: oblique;
+	color: blue;
+}
+h2{
+	font-style: oblique;
+	font-size: 16;
+	font-family: arial, helvetica, sans-serif;
+	color: blue;
+}
+ul{
+	font-weight: inherit;
+	font-size: 12;
+	
+
+}
