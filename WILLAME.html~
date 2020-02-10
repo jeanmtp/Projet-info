@@ -3,13 +3,14 @@
 <head>
 <meta charset="utf-8" />
 <link rel="stylesheet" href="groupe4.css" type="text/css" />
-<title>Site projet : nom artiste</title>
+<title>Mozart, sa vie, son oeuvre</title>
 </head>
 <body>
 <a href="" > IMAGE
 <h1>Title 1</h1>
 <h2>Title 2</h2>
 <p>txt</p>
+<font>COLOR</font>
 </body>
 </html>
 <ul>Index</ul>
