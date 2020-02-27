@@ -1,0 +1,44 @@
+<html>
+
+<head>
+<title>Groupe 4</title>
+<meta charset="utf-8">
+<link rel="stylesheet" href="index.css">
+<link rel="stylesheet" href="mozart.css">
+</head>
+
+<center>
+<h1>
+<p style="line-height:65px;"><big><b>
+<font face="Bookman Old Style, Book Antiqua, Garamond">
+Auteurs</font></Big></b></p>
+</h1>
+
+<nav>
+<ul>
+<li><a href="index.html">Accueil</a></li><!--
+--><li><a href="mozart.html">Mozart</a></li><!--
+--><li><a href="stromae.html">Stromae</a></li><!--
+--><li><a href="debussy.html">Debussy</a></li>
+</ul>
+</nav>
+
+</center>
+<body style="background-color:#EDE2D1;">
+<h2 align="center"><b>
+<font face="DejaVu Sans"><em>
+<h1>MOZART</h1>
+</em></font></b></h2>
+<h3>Biographie Personnelle</h3>
+<center><img src="mozart1.jpg"></center>
+<p>Wolfgang Theophilus [= Amadeus ou Gottlieb] Mozart est un compositeur allemand, né à Salzbourg (Autriche) le 27 janvier 1756, mort à Vienne le 5 décembre 1791. Fils de Léopold Mozart, il montra, dès l'âge de trois ans, d'étonnantes dispositions pour la musique, prenant plaisir à suivre les leçons de clavecin que recevait sa soeur Marie-Anne, et cherchant à former des tierces sur l'instrument. Il ne tarda pas à jouer lui-même de petits menuets, et, à peine âgé de cinq ans, il s'essayait à la composition, sans pour cela négliger d'autres études, particulièrement celle de l'arithmétique. </p>
+<p>En 1762, son père le présenta à la cour de Vienne, où son précoce talent lui valut de la famille impériale un excellent accueil auquel s'associa naturellement toute la noblesse. Revenus à Salzbourg l'année suivante, le père et le fils n'y demeurèrent que peu de temps et en repartirent le 9 juin, accompagnés de Marie-Anne, pour un voyage beaucoup plus considérable. Ils parcoururent successivement Munich, Augsbourg, Mayence, Francfort, Coblence, Aix-la-Chapelle, Bruxelles, trouvant partout le meilleur accueil. </p>
+<p>Le jeune Wolfgang se faisait entendre soit sur le clavecin, soit sur le violon, soit même sur l'orgue. L'étape suivante était Paris, où nos voyageurs arrivèrent cinq mois après leur départ de Salzbourg. Ils se rendirent à Versailles et le petit virtuose y retrouva son succès accoutumé. Après cinq mois de séjour en France, ils partirent pour Londres et y demeurèrent plus d'un an. Wolfgang, dont le talent allait croissant, joua devant le roi et la reine les compositions les plus ardues de Haendel et de Sébastien Bach, il exécuta aussi ses propres oeuvres au cours de nombreux concerts qui obtinrent d'abord de vifs succès, mais finirent par lasser l'attention publique. Ce fut à Chelsea que le jeune maître écrivit, pendant une maladie de son père, ses quatre premières symphonies.</p>
+<p>Comme tout le monde sait, Mozart fut enterré dans une fosse commune, mais pas jeté n'importe comment. A l'époque, dans les fosses communes, on enterrait 16 personnes, 
+par rangée de quatre corps, sur quatre. Les fosses étaient retournées tous les dix ans, et le fossoyeur qui avait enterré Mozart en 1791, a récupéré son crâne en 1801. 
+Ses dernières symphonies furent créées sous la direction de son élève Franz Xaver Süssmayr (1766-1803), qui paracheva la composition du Requiem.</p>
+<p>Sa mort prématurée  n' a pas empêché Mozart de devenir l'un des musiciens les plus célèbres au monde. L'importance quantitative (plus de 600 œuvres) et qualitative de la musique mozartienne démontra une immense puissance d'imagination et ce, dès son 
+plus jeune âge. </p>
+<h4>Biographie professionnelle</h4>
+</body>
+</html>

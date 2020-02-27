@@ -1,0 +1,24 @@
+h1 {
+	font-size:60px;
+	text-align:center;
+	border:3px solid pink;
+	color:pink;
+	margin:100px;
+}
+h2 {
+	font-size:45px;
+	color:#80FD51;
+	}
+h3 {
+	text-align: left;
+	font-size:30px;
+	color:pink;
+	margin-left:25px;
+}
+h4 {
+	margin-left:50px;
+	color:#27F80B;
+}
+p{
+	text-align:justify;
+}

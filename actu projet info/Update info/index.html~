@@ -1,0 +1,33 @@
+<html>
+
+<head>
+<title>Groupe 4</title>
+<meta charset="utf-8">
+<link rel="stylesheet" href="index.css">
+</head>
+
+<center>
+<h1>
+<p style="line-height:65px;"><big><b>
+<font face="Bookman Old Style, Book Antiqua, Garamond">
+Auteurs</font></Big></b></p>
+</h1>
+
+<nav>
+<ul>
+<li><a href="index.html">Accueil</a></li><!--
+--><li><a href="mozart.html">Mozart</a></li><!--
+--><li><a href="stromae.html">Stromaé</a></li><!--
+--><li><a href="debussy.html">Debussy</a></li>
+</ul>
+</nav>
+
+</center>
+<body style="background-color:#EDE2D1;">
+<h2 align="center"><b>
+<font face="DejaVu Sans"><em>
+Titre!
+</em></font></b></h2>
+
+</body>
+</html>

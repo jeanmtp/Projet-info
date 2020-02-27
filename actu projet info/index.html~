@@ -1,0 +1,21 @@
+<Index Groupe 4>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Index groupe 4</title>
+<link rel="stylesheet" href="index.css"/>
+</head>
+<body style="background-color:#EDE2D1;">
+<center>
+<h1>
+<p style="line-height:65px;"><big><b>
+<font face="Bookman Old Style, Book Antiqua, Garamond">
+Auteurs</font></Big></b></p>
+</h1>
+<body>
+<nav>
+<ul>
+<li><a href="index.html">Accueil</a></li><!--
+--><li><a href="mozart.html">Mozart</a></li><!--
+--><li><a href="elvis.html">Roméo Elvis</a></li><!--
+--><li><a href="auteur1.html">Auteur 3</a></li><!--
